@@ -1,0 +1,68 @@
+body {
+    background-image: url(background.jpg); 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    background-attachment: fixed;
+}
+#GrandeLista {
+background-color: rgba(0, 0, 0, 0.575); 
+height: 800px;
+margin-top: 75px;
+margin-left: 275px;
+margin-right: 275px;
+border-radius: 20px;
+
+}
+#logo {
+    margin-top: 7%; margin-left: 44%; 
+}
+#Titolo {
+    margin-top: 3%; margin-left: 32%; 
+    color: lime;
+}
+
+#Bottoni {
+    background-color: lime;
+    margin-left: 80px; margin-right: 80px;
+    height: 35px;
+}
+#Bottoni2 {
+    margin-top: -2%; margin-left: 35%;
+}
+#Scritte {
+    color: aliceblue; 
+    margin-top: 0%; margin-left: 22%; 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', serif;
+}
+#BarraGino {
+    background-color: rgb(255, 200, 80);
+     margin-right: 500px;
+     height: 25px;
+     border-radius: 5px;
+    color: rgb(255, 200, 80);
+}
+#Scritte2 {
+    color: aliceblue; 
+    margin-top: 0%; margin-left: 22%; 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', serif;
+}
+#BarraMike {
+    background-color: lime;
+    margin-right: 400px;
+    height: 25px;
+    border-radius: 5px;
+   color: lime;
+}
+
+#Scritte3 {
+    color: aliceblue; 
+    margin-top: 0%; margin-left: 22%; 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', serif;
+}
+#BarraFede {
+    background-color: brown;
+    margin-right: 675px;
+    height: 25px;
+    border-radius: 5px;
+   color: brown;
+}
